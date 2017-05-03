@@ -1,3 +1,3 @@
-let message = 'Hspefi';
+let message = 'It works !';
 
 console.log(message);
